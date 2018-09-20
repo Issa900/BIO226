@@ -1,6 +1,10 @@
 # BIO226
-Evolutionary ecological genomics and molecular adaptation
 
+# Evolutionary ecological genomics and molecular adaptation
+
+# Dates : 6 - 28 November 2018
+
+# Location : Villa of the Botanischer Garten der Universität Zürich Zollikerstrasse 107 8008 Zürich
 
 ### General description
 
@@ -19,4 +23,10 @@ On completion of the course, students should be able to 1) recognize the strengt
 
 On completion of the course, students should be able to 1) assess the conclusions of previously published literature 2) synthesize their knowledge through the completion of group projects based on previously published data 3) present the results of group projects both in writing and orally to promote fellow students’ understanding
 
-# Languages: Englisch
+# Languages: 
+	Englisch
+
+Module Coordinator: Peter Szoevenyi
+Assistant: Seydina Issa Diop - Alexander Kirbis - Anna Neubauer - Alessia Russo
+
+
